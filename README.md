@@ -2,6 +2,8 @@
 
 Responsive Fitness Website 💪🏻
 
+Demo Link: https://chula805.github.io/GymWebsite/
+
 * Responsive fitness Website Using HTML, CSS, SCSS & JavaScript.
 * It has three color designs (pink, black and white)
 * Smooth scrolling in each section.
